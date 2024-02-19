@@ -19,5 +19,4 @@
 - Delete Chef
 - Search Chef by name 
 - Filter Chef by status
-- 
   
